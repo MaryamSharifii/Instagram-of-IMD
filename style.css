@@ -18,7 +18,27 @@ a{
     background-color: rgba(255, 255, 255, 0.85);
     margin: 0px auto;
 }
+/* header of page */
 
+.header{
+    background-color: rgba(255, 255, 255, 0.85);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+}
+
+.header .left i{
+    color: #000;
+}
+.header .left span{
+    color: #000;
+    margin-left: 25px;
+    font-weight: 300;
+    
+}
+
+/* footer of page */
 .icons{
     width: 400px;
     background-color: rgba(255, 255, 255, 0.85);
