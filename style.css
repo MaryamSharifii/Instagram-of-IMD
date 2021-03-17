@@ -15,7 +15,7 @@ a{
 .container .screen{
     width: 400px;
     min-height: 100vh;
-    background-color: rgba(255, 255, 255, 0.85);
+    background-color: #ffffff;
     margin: 0px auto;
 }
 /* ----header of page---- */
@@ -51,7 +51,7 @@ a{
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    border: 10px linear-gradient(#f6b73c, #4d9f0c) 30;
+    border: 1px solid #000;
 }
 
 .statistics{
